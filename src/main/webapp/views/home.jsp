@@ -121,7 +121,7 @@
 <div class="heading">Welcome to Our Travel Website</div>
 
 <footer>
-        <p>&copy; 2024 Travel Connect.Designed with ❤️ by our Team PT²</p>
+    <p>&copy; 2026 Travel Connect | Designed by team GS²</p>
 </footer>
 
 
