@@ -14,7 +14,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class ControllerProject {
 	
-
+	@GetMapping("/")
+    public String root() {
+        return "home";
+    }
+	
     @GetMapping("/home")
     public String home() {
         return "home"; 
